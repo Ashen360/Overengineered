@@ -32,12 +32,6 @@ Absolute: 4.7
 Rounded: -5
 ```
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
 ## Contact
 - GitHub: [Ashen360](https://github.com/Ashen360)
 - Email: kurtrusselbaybay@gmail.com
